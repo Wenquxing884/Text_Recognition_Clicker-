@@ -1,0 +1,26 @@
+# 项目依赖
+# 运行以下命令安装所有依赖：
+# pip install -r requirements.txt
+
+# OCR相关依赖
+wheel==0.45.1
+paddlex==2.0.0
+paddlepaddle==2.4.2
+
+# 图像处理
+Pillow>=9.0.0
+opencv-python>=4.5.5.64
+
+# 自动化操作
+pyautogui>=0.9.53
+pytesseract>=0.3.8
+
+# 键盘监听
+keyboard>=0.13.5
+
+# 数据处理
+numpy>=1.22.0
+pyperclip>=1.8.2
+
+# JSON处理
+json5>=0.9.6
